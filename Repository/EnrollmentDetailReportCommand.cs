@@ -30,5 +30,6 @@ namespace CourseReportEmailer.Repository
 
             return enrollmentDetailReport;
         }
+
     }
 }
